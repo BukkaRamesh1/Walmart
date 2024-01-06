@@ -29,7 +29,7 @@ public class Sample {
 	 *   git pull -- will fetch all the latest code from repo
 	 *   
 	 *   
-	 *   Rachana-have committed latest code.
+	 *   Kathy 
 	 * 
 	 *   
 	 * 
