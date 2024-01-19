@@ -31,7 +31,6 @@ public class Sample {
 	 *   
 	 *   Rachana-have committed latest code.
 	 *   Aakash - my commit
-	 *   
 	 * 
 	 * 
 	 * 
